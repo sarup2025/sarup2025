@@ -17,10 +17,5 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" target="_blank">
-          <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Hi.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="29" height="28"></canvas></span>
-        </a>
+
+
