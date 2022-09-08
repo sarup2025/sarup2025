@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <img src="https://en.bloggif.com/tmp/2cfff1fdbd64fe9b88c2f6397063850c/text.gif?1662604044" alt="Welcome!" width="300"/>
 
 </div>
-🔭 I’m currently working on Java
-- 🌱 I’m currently learning Fullstack Development
-- 👯 I’m looking to collaborate on open source Project
-- 💬 Ask me about Java and Web Development
-- 📫 How to reach me: sarupchakraborty7@gmail.com
+🔭 I’m currently working on Java<br>
+- 🌱 I’m currently learning Fullstack Development<br>
+- 👯 I’m looking to collaborate on open source Project<br>
+- 💬 Ask me about Java and Web Development<br>
+- 📫 How to reach me: sarupchakraborty7@gmail.com<br>
 
 
 
