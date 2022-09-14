@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 
-<!--img src="https://en.bloggif.com/tmp/2cfff1fdbd64fe9b88c2f6397063850c/text.gif?1662604044" alt="Welcome!" width="300"/>
+
 
 </div>
 🔭 I’m currently working on Java<br>
