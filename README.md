@@ -41,25 +41,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/sarup.chakraborty.940/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   
   
-## Connect with me
-  <a href="https://twitter.com/kunalstwt">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-  <a href="https://www.linkedin.com/in/kunal-kushwaha/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw">
-  <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-  </a>&ensp;
-  <a href="https://www.instagram.com/kunalsig/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>&ensp;
-  <a href="https://kunalkushwaha.com">
-  <img width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
-  </a>
-   <a href="https://www.instagram.com/kunalsig/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/leetcode/leetcode-icon.svg" />
-  </a>&ensp;
+
 </div>
 
 
