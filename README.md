@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   
 
 </div>
-[![An image of @sarup2025's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarup2025)](https://holopin.io/@sarup2025)
+<img src="https://holopin.me/sarup2025">
 
 
 
